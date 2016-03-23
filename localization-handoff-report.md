@@ -1,38 +1,24 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\azure-portal-overview.md](https://github.com/OpenLocalizationTest/azuretest/blob/b001a0c081977700566a93cea8cd2e5f055c1a43/articles/azure-portal-overview.md) | HandedOffSuccess | [Details](#1bba62891d26784d8079dcaf9789da22edc1f2516326)
- [articles\mobile-services\media\mobile-services-dotnet-backend-hybrid-connections-get-started\11.png](https://github.com/OpenLocalizationTest/azuretest/blob/b001a0c081977700566a93cea8cd2e5f055c1a43/articles/mobile-services/media/mobile-services-dotnet-backend-hybrid-connections-get-started/11.png) | HandedOffSuccess | [Details](#7e9c3c2bdcf32439268ab7629b5455f7a134d2bc12372)
+ [articles\architecture-overview.md](https://github.com/OpenLocalizationTest/azuretest/blob/98682a0468ca414a1ef12ceec2e30987325ed334/articles/architecture-overview.md) | HandedOffSuccess | [Details](#ef9dd65df941b9a7dc785eec68098ba6987064286178)
 
 ## Item Details
-##### <a name='1bba62891d26784d8079dcaf9789da22edc1f2516326'></a> Source: [articles\azure-portal-overview.md](https://github.com/OpenLocalizationTest/azuretest/blob/b001a0c081977700566a93cea8cd2e5f055c1a43/articles/azure-portal-overview.md)
+##### <a name='ef9dd65df941b9a7dc785eec68098ba6987064286178'></a> Source: [articles\architecture-overview.md](https://github.com/OpenLocalizationTest/azuretest/blob/98682a0468ca414a1ef12ceec2e30987325ed334/articles/architecture-overview.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [azure-portal-overview.574bbaca3e4c788d3a72437788f39599bfd395f0.pt-br.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/9de7ea9709cf80c26f2b5191ee89af947ef740bc/ol-handoff/OpenLocalizationTestOrg/azure-content-ptbr-test/master/ht/azure-portal-overview.574bbaca3e4c788d3a72437788f39599bfd395f0.pt-br.xlf)
-* Handoff Datetime: 2016-03-23 07:02:15
+* Handoff File: [architecture-overview.28976b27aca11944f5c097e2ea8a44d47035debc.pt-br.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/bd132bdd58dee45345584b8a2675336f59e8e297/ol-handoff/OpenLocalizationTestOrg/azure-content-ptbr-test/master/ht/architecture-overview.28976b27aca11944f5c097e2ea8a44d47035debc.pt-br.xlf)
+* Handoff Datetime: 2016-03-23 08:12:34
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='7e9c3c2bdcf32439268ab7629b5455f7a134d2bc12372'></a> Source: [articles\mobile-services\media\mobile-services-dotnet-backend-hybrid-connections-get-started\11.png](https://github.com/OpenLocalizationTest/azuretest/blob/b001a0c081977700566a93cea8cd2e5f055c1a43/articles/mobile-services/media/mobile-services-dotnet-backend-hybrid-connections-get-started/11.png)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [7e9c3c2bdcf32439268ab7629b5455f7a134d2bc.png](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/9de7ea9709cf80c26f2b5191ee89af947ef740bc/ol-handoff/OpenLocalizationTestOrg/azure-content-ptbr-test/master/ht/7e9c3c2bdcf32439268ab7629b5455f7a134d2bc.png)
-* Handoff Datetime: 2016-03-23 07:02:15
-* Handoff Reason: IsDependency
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: articles\mobile-services\mobile-services-dotnet-backend-hybrid-connections-get-started.md
 * [Back to Top](#report-top)
 
 
